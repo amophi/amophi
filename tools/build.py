@@ -47,15 +47,18 @@ WORK = [
 ]
 
 
-def cycle_css(name, count, hold, fade):
+def cycle_css(name, count, hold, fade, sequential=False):
     """count 개의 장면이 hold 초씩 차례로 보이도록, 서서히 바뀌는 CSS 를 만든다.
 
     움직임이 아니라 투명도만 바꾸므로 '움직임 줄이기' 설정에서도 그대로 둔다.
     애니메이션을 못 쓰는 곳에서는 첫 장면만 보인다(나머지는 opacity 0 속성).
+    sequential 이면 앞 장면이 다 사라진 뒤에 다음 장면이 나타난다. 글자는 겹쳐 보이면
+    읽을 수 없으므로 이 방식으로 바꾸고, 그림은 겹쳐서 바꾼다.
     """
     total = count * hold
-    a = (hold - fade) / total * 100
-    b = hold / total * 100
+    lead = fade if sequential else 0
+    a = (hold - fade - lead) / total * 100
+    b = (hold - lead) / total * 100
     c = (total - fade) / total * 100
     css = (f'@keyframes {name}{{0%{{opacity:1}}{a:.2f}%{{opacity:1}}{b:.2f}%{{opacity:0}}'
            f'{c:.2f}%{{opacity:0}}100%{{opacity:1}}}}'
@@ -176,6 +179,7 @@ def showcase(t, f, css, theme):
     c = Canvas(W, H, t['alt'])
     c.css(css)
     c.css(cycle_css('cy', 3, 5.0, 1.0))
+    c.css(cycle_css('cp', 3, 5.0, 0.5, sequential=True))
     pics = [c.picture(os.path.join(PICS, name), 1320, 594)
             for name in ('show_speech.jpg', 'show_danger.jpg', 'show_left.jpg')]
 
@@ -194,7 +198,7 @@ def showcase(t, f, css, theme):
     for i, lines in enumerate(t['captions']):
         rows = ''.join(c.text(f['m'], line, W / 2, 912 + j * 40, 26, ink, anchor='middle')
                        for j, line in enumerate(lines))
-        d.append(f'<g{state("cy", i)}>{rows}</g>')
+        d.append(f'<g{state("cp", i)}>{rows}</g>')
     c.add(f'<g class="dt">{"".join(d)}</g>')
 
     # 좁은 화면: 틀을 넓히고 글자를 키운다
@@ -208,7 +212,7 @@ def showcase(t, f, css, theme):
         cap = min(fit(f['m'], line, 50, W - 96, 'showcase phone caption') for line in lines)
         rows = ''.join(c.text(f['m'], line, W / 2, 928 + j * 58, cap, ink, anchor='middle')
                        for j, line in enumerate(lines))
-        m.append(f'<g{state("cy", i)}>{rows}</g>')
+        m.append(f'<g{state("cp", i)}>{rows}</g>')
     c.add(f'<g class="ph">{"".join(m)}</g>')
     return c
 
