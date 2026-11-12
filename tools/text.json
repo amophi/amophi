@@ -1,0 +1,266 @@
+{
+  "ko": {
+    "hero": {
+      "alt": "김도환, 소리를 화면에 그리는 개발자. 동국대 컴퓨터AI학부, SOVIS 팀장, 슈어소프트테크 인턴. 들리지 않는 소리를 화면 가장자리의 빛으로 바꿉니다.",
+      "title": [
+        "김도환",
+        "소리를 그리는",
+        "개발자"
+      ],
+      "facts": [
+        "동국대 컴퓨터AI학부",
+        "SOVIS 팀장",
+        "슈어소프트테크 인턴"
+      ],
+      "line": [
+        "들리지 않는 소리를",
+        "화면 가장자리의 빛으로 바꿉니다."
+      ],
+      "credit": "github.com/amophi",
+      "button": "SoundVisualizer 보기",
+      "mail": "nawwhod@gmail.com",
+      "phone_title": [
+        "김도환",
+        "소리를 그리는 개발자"
+      ],
+      "phone_line": [
+        "들리지 않는 소리를 화면 가장자리의",
+        "빛으로 바꿉니다."
+      ],
+      "phone_fact": "SOVIS 팀장 · 동국대 컴퓨터AI학부"
+    },
+    "showcase": {
+      "alt": "들리지 않는 소리를 보이게 만듭니다. 같은 화면에서 소리에 따라 가장자리가 바뀝니다. 사람 소리는 노란색, 위협음은 빨간색이고, 소리가 난 쪽 가장자리가 더 두껍게 그려집니다.",
+      "above": "들리지 않는 소리를",
+      "below": "보이게 만듭니다",
+      "captions": [
+        [
+          "사람 소리는 노란색입니다.",
+          "말소리가 나는 동안 화면 가장자리가 노랗게 물결칩니다."
+        ],
+        [
+          "위협음은 빨간색입니다.",
+          "총소리, 사이렌, 경적이 들리면 붉게 바뀌고 진동으로도 알립니다."
+        ],
+        [
+          "방향은 두께로 보입니다.",
+          "왼쪽에서 난 소리는 왼쪽 가장자리가 더 두껍게 그려집니다."
+        ]
+      ],
+      "phone_captions": [
+        [
+          "사람 소리는 노란색입니다.",
+          "말소리가 나는 동안 화면 가장자리가",
+          "노랗게 물결칩니다."
+        ],
+        [
+          "위협음은 빨간색입니다.",
+          "총소리, 사이렌, 경적이 들리면",
+          "붉게 바뀌고 진동으로도 알립니다."
+        ],
+        [
+          "방향은 두께로 보입니다.",
+          "왼쪽에서 난 소리는 왼쪽 가장자리가",
+          "더 두껍게 그려집니다."
+        ]
+      ]
+    },
+    "work": {
+      "sv": {
+        "year": "2026",
+        "title": "SOUNDVISUALIZER",
+        "fact": "Android · Windows · 18개 언어",
+        "alt": "SoundVisualizer. 2026. Android와 Windows, 18개 언어. 다리 위에서 말하는 두 사람 위로 노란 원형 오버레이가 그려진 실제 화면."
+      },
+      "androidpanel": {
+        "year": "2026",
+        "title": "ANDROID PANEL",
+        "fact": "VS Code 확장 · 입력 지연 70ms → 2ms",
+        "alt": "Android Panel. 2026. VS Code 확장, 입력 지연 70ms에서 2ms로."
+      },
+      "pildong": {
+        "year": "2026",
+        "title": "어서오세요 필동 편의점에!",
+        "fact": "팀장 · 2D 편의점 경영 게임",
+        "alt": "어서오세요 필동 편의점에! 2026. 팀장, 2D 편의점 경영 게임. 편의점 안을 위에서 내려다본 실제 게임 화면."
+      },
+      "solarljos": {
+        "year": "2026",
+        "title": "SOLARLJOS",
+        "fact": "Windows 파일 복구 · 18개 언어",
+        "alt": "Solarljos. 2026. Windows 파일 복구 도구, 18개 언어."
+      },
+      "highschool": {
+        "year": "2026",
+        "title": "하이스쿨 하이스코어",
+        "fact": "6명 · 미니게임 모음",
+        "alt": "하이스쿨 하이스코어. 2026. 6명이 만든 미니게임 모음. 덮개 아래 음식을 찾는 미니게임의 실제 화면."
+      },
+      "gcs": {
+        "year": "2025",
+        "title": "국제불교박람회 GCS 열반급행",
+        "fact": "32명 · 커머스·커뮤니티 플랫폼",
+        "alt": "국제불교박람회 GCS 열반급행. 2025. 32명이 만든 커머스·커뮤니티 플랫폼."
+      },
+      "dead0": {
+        "year": "2025",
+        "title": "D(EAD)0",
+        "fact": "팀장 · 2D 로그라이크",
+        "alt": "D(ead)0. 2025. 팀장, 2D 로그라이크. 교실에서 좀비를 피하는 실제 게임 화면."
+      }
+    },
+    "proof": {
+      "alt": "2026 장애인 분야 해커톤 입선, 달서 전국 대학생 AI활용 아이디어 콘테스트 은상, 제13회 전국 ICT융합 공모전 장려상, SQLD, ADsP, AWS Certified AI Practitioner.",
+      "names": [
+        "2026 장애인 분야 해커톤 입선",
+        "달서 전국 대학생 AI활용 아이디어 콘테스트 은상",
+        "제13회 전국 ICT융합 공모전 장려상",
+        "SQLD",
+        "ADsP",
+        "AWS Certified AI Practitioner"
+      ]
+    },
+    "contact": {
+      "alt": "메일 보내기: nawwhod@gmail.com. 접근성, 오버레이, 개발 도구 이야기를 기다립니다.",
+      "line": "접근성, 오버레이, 개발 도구 이야기를 기다립니다.",
+      "phone_line": [
+        "접근성, 오버레이, 개발 도구",
+        "이야기를 기다립니다."
+      ],
+      "place": "서울",
+      "links": "github.com/amophi   ·   sovis-team.github.io"
+    }
+  },
+  "en": {
+    "hero": {
+      "alt": "Kim Dohwan makes sound visible. Computer Science and AI at Dongguk University, team lead of SOVIS, intern at SureSoft Tech. I turn sound you cannot hear into light at the edges of the screen.",
+      "title": [
+        "Kim Dohwan",
+        "makes sound",
+        "visible"
+      ],
+      "facts": [
+        "CS & AI, Dongguk University",
+        "Team lead, SOVIS",
+        "Intern, SureSoft Tech"
+      ],
+      "line": [
+        "I turn sound you cannot hear",
+        "into light at the edges of the screen."
+      ],
+      "credit": "github.com/amophi",
+      "button": "See SoundVisualizer",
+      "mail": "nawwhod@gmail.com",
+      "phone_title": [
+        "Kim Dohwan",
+        "makes sound visible"
+      ],
+      "phone_line": [
+        "I turn sound you cannot hear into",
+        "light at the edges of the screen."
+      ],
+      "phone_fact": "Team lead, SOVIS · Dongguk University"
+    },
+    "showcase": {
+      "alt": "Unheard sound, made visible. The same screen changes at its edges with the sound: human sounds are yellow, danger is red, and the edge nearest the sound is drawn thicker.",
+      "above": "Unheard sound,",
+      "below": "made visible",
+      "captions": [
+        [
+          "Human sounds are yellow.",
+          "While people talk, the edges of the screen ripple in yellow."
+        ],
+        [
+          "Danger is red.",
+          "Gunshots, sirens and horns turn the edges red, and the phone vibrates."
+        ],
+        [
+          "Direction is thickness.",
+          "A sound from the left makes the left edge thicker."
+        ]
+      ],
+      "phone_captions": [
+        [
+          "Human sounds are yellow.",
+          "While people talk, the edges",
+          "of the screen ripple in yellow."
+        ],
+        [
+          "Danger is red.",
+          "Gunshots, sirens and horns turn",
+          "the edges red, and the phone vibrates."
+        ],
+        [
+          "Direction is thickness.",
+          "A sound from the left makes",
+          "the left edge thicker."
+        ]
+      ]
+    },
+    "work": {
+      "sv": {
+        "year": "2026",
+        "title": "SOUNDVISUALIZER",
+        "fact": "Android · Windows · 18 languages",
+        "alt": "SoundVisualizer. 2026. Android and Windows, 18 languages. A real capture: a yellow ring overlay drawn over two people talking on a bridge."
+      },
+      "androidpanel": {
+        "year": "2026",
+        "title": "ANDROID PANEL",
+        "fact": "VS Code extension · input lag 70 ms → 2 ms",
+        "alt": "Android Panel. 2026. VS Code extension, input lag from 70 ms to 2 ms."
+      },
+      "pildong": {
+        "year": "2026",
+        "title": "PILDONG CONVENIENCE STORE",
+        "fact": "Team lead · 2D sim game",
+        "alt": "Welcome to Pildong Convenience Store! 2026. Team lead, 2D store-management game. A real screenshot looking down into the store."
+      },
+      "solarljos": {
+        "year": "2026",
+        "title": "SOLARLJOS",
+        "fact": "File recovery for Windows · 18 languages",
+        "alt": "Solarljos. 2026. File recovery for Windows, 18 languages."
+      },
+      "highschool": {
+        "year": "2026",
+        "title": "HIGH SCHOOL HIGH SCORE",
+        "fact": "Team of 6 · minigames",
+        "alt": "High School High Score. 2026. A minigame collection by a team of six. A real screenshot of a find-the-dish minigame."
+      },
+      "gcs": {
+        "year": "2025",
+        "title": "GCS NIRVANA EXPRESS",
+        "fact": "Team of 32 · commerce platform",
+        "alt": "GCS Nirvana Express for the International Buddhism Expo. 2025. A commerce and community platform by a team of 32."
+      },
+      "dead0": {
+        "year": "2025",
+        "title": "D(EAD)0",
+        "fact": "Team lead · 2D roguelike",
+        "alt": "D(ead)0. 2025. Team lead, 2D roguelike. A real screenshot of dodging zombies in a classroom."
+      }
+    },
+    "proof": {
+      "alt": "Honorable Mention at the 2026 Disability Hackathon, Silver Prize at the Dalseo AI Idea Contest, Encouragement Prize at the 13th National ICT Convergence Contest, SQLD, ADsP, AWS Certified AI Practitioner.",
+      "names": [
+        "2026 Disability Hackathon · Honorable Mention",
+        "Dalseo AI Idea Contest · Silver Prize",
+        "13th National ICT Convergence Contest · Encouragement Prize",
+        "SQLD",
+        "ADsP",
+        "AWS Certified AI Practitioner"
+      ]
+    },
+    "contact": {
+      "alt": "Send mail: nawwhod@gmail.com. Write to me about accessibility, overlays or developer tools.",
+      "line": "Write to me about accessibility, overlays or developer tools.",
+      "phone_line": [
+        "Write to me about accessibility,",
+        "overlays or developer tools."
+      ],
+      "place": "Seoul, Korea",
+      "links": "github.com/amophi   ·   sovis-team.github.io"
+    }
+  }
+}
