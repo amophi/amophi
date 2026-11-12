@@ -77,13 +77,4 @@ An accessibility app that draws the **direction, loudness and kind** of every so
 | TOEFL ITP 610 | Jul 2026 |
 | TOEIC 930 | |
 
-## 📊 GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amophi&amp;disable_animations=true&amp;theme=github-dark-blue&amp;hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=amophi&amp;disable_animations=true&amp;hide_border=true" alt="amophi's GitHub contribution streak">
-  </picture>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44,100:3182F6&amp;height=120&amp;section=footer" width="100%" alt="">
