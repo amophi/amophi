@@ -1,8 +1,8 @@
 <div align="right"><a href="README.md">English</a> | <b>한국어</b></div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44,100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=FFFFFF&amp;fontAlignY=42">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44,100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=0B1F44&amp;fontAlignY=42" width="100%" alt="Kim Dohwan">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44%2C100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=FFFFFF&amp;fontAlignY=42">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44%2C100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=0B1F44&amp;fontAlignY=42" width="100%" alt="Kim Dohwan">
 </picture>
 
 <p align="center">
@@ -82,4 +82,4 @@
 | TOEFL ITP 610 | 2026.07 |
 | TOEIC 930 |  |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44,100:3182F6&amp;height=120&amp;section=footer" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44%2C100:3182F6&amp;height=120&amp;section=footer" width="100%" alt="">
