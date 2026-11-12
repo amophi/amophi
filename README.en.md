@@ -1,6 +1,6 @@
 <div align="right"><a href="README.md">한국어</a> | <b>English</b></div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44,100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Turning%20ideas%20into%20working%20software&amp;descSize=20&amp;descAlignY=60" width="100%" alt="Kim Dohwan, turning ideas into working software">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44,100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=FFFFFF&amp;fontAlignY=42" width="100%" alt="Kim Dohwan">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=3182F6&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Mobile+%C2%B7+Desktop+%C2%B7+Web+%C2%B7+Game;From+the+first+idea+to+the+release;CS+%26+AI+at+Dongguk+University" alt="Mobile, desktop, web and games, from the first idea to the release">

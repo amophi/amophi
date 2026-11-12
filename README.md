@@ -1,6 +1,6 @@
 <div align="right"><b>한국어</b> | <a href="README.en.md">English</a></div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44,100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=%EC%83%81%EC%83%81%EC%9D%84%20%ED%98%84%EC%8B%A4%EB%A1%9C%20%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&amp;descSize=20&amp;descAlignY=60" width="100%" alt="Kim Dohwan, 상상을 현실로 구현하는 개발자">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44,100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=FFFFFF&amp;fontAlignY=42" width="100%" alt="Kim Dohwan">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=3182F6&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Mobile+%C2%B7+Desktop+%C2%B7+Web+%C2%B7+Game;%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0+%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80+%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90+%EC%BB%B4%ED%93%A8%ED%84%B0AI%ED%95%99%EB%B6%80" alt="모바일, 데스크톱, 웹, 게임을 기획부터 배포까지 만듭니다">
