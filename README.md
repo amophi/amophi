@@ -1,6 +1,9 @@
 <div align="right"><b>English</b> | <a href="README.ko.md">한국어</a></div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44,100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=FFFFFF&amp;fontAlignY=42" width="100%" alt="Kim Dohwan">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44,100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=FFFFFF&amp;fontAlignY=42">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44,100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=0B1F44&amp;fontAlignY=42" width="100%" alt="Kim Dohwan">
+</picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=3182F6&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Mobile+%C2%B7+Desktop+%C2%B7+Web+%C2%B7+Game;Computer+Science+%26+AI+%C2%B7+Dongguk+University" alt="Mobile · Desktop · Web · Game">
