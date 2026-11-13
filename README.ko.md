@@ -1,15 +1,11 @@
 <div align="right"><a href="README.md">English</a> | <b>한국어</b></div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44%2C100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=FFFFFF&amp;fontAlignY=42">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44%2C100:3182F6&amp;height=220&amp;section=header&amp;text=Kim%20Dohwan&amp;fontSize=64&amp;fontColor=0B1F44&amp;fontAlignY=42" width="100%" alt="Kim Dohwan">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-ko-dark.svg">
+  <img src="assets/header-ko-light.svg" width="100%" alt="김도환, 동국대학교 컴퓨터AI학부">
 </picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=3182F6&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Mobile+%C2%B7+Desktop+%C2%B7+Web+%C2%B7+Game;%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90+%EC%BB%B4%ED%93%A8%ED%84%B0AI%ED%95%99%EB%B6%80" alt="Mobile · Desktop · Web · Game">
-</p>
-
-<p align="center">
+<p>
   <a href="mailto:nawwhod@gmail.com"><img src="https://img.shields.io/badge/Gmail-nawwhod%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
   <a href="https://github.com/SOVIS-Team"><img src="https://img.shields.io/badge/-SOVIS--Team-3182F6?style=flat-square&amp;logo=github&amp;logoColor=white" alt="SOVIS"></a>
   <a href="https://github.com/MEVI-TEAM"><img src="https://img.shields.io/badge/-MEVI--TEAM-8250DF?style=flat-square&amp;logo=github&amp;logoColor=white" alt="MEVI"></a>
@@ -81,5 +77,3 @@
 | AWS Certified AI Practitioner | 2026.08 |
 | TOEFL ITP 610 | 2026.07 |
 | TOEIC 930 |  |
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1F44%2C100:3182F6&amp;height=120&amp;section=footer" width="100%" alt="">
